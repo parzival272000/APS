@@ -1,7 +1,3 @@
-## Preview
-
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/72314518/136691672-7b232282-9a9d-4c38-aecb-1e46228e5ab0.gif)
-
 
 ## Accident Prevention System
 
