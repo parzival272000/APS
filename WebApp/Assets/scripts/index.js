@@ -12,8 +12,8 @@ const btnStartPredict = document.getElementById('startPredicting')
 const btnStopPredict = document.getElementById('stopPredicting')
 
 // Load the sound
-const warningSound = new Audio('./warning.mp3')
-const dangerSound = new Audio('./danger.mp3')
+const warningSound = new Audio('./Assets/sounds/warning.mp3')
+const dangerSound = new Audio('./Assets/sounds/danger.mp3')
 
 async function loadMobilenet() {
   const mobilenet = await tf.loadLayersModel('https://storage.googleapis.com/tfjs-models/tfjs/mobilenet_v1_0.25_224/model.json');
